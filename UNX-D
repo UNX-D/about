@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UNX-D Corporation</title>
+    <style>
+        body{
+             font-family: Arial, sans-serif;
+             background-color: #f0f0f0;
+        }
+        h1 {
+            color: #333;
+        }
+        .highlight {
+            background-color: #ffd700;
+            font-weight: bold;
+        }
+        
+        body.background{
+          height:100%;
+          background-image:url(https://web.ccpgamescdn.com/aws/eveonline/sso/background.jpg);
+        }
+    </style>
+</head>
+<body>
+<div class="background" style="background-image:url(https://web.ccpgamescdn.com/aws/eveonline/sso/background.jpg)">
+    <h1>Welcome to Unexpected Company (UNX-D)!</h1>
+    <p class="highlight">New Player Faction Warfare Friendly Corp</p>
+    <p class="highlight">Real Life First</p>
+    <p>Unexpected Company is a new player-friendly and real-life-first EVE Online corporation operating in Low security space. Our focus is on community, organization, and providing a great new player experience. We participate in all areas of EVE, with a special emphasis on PvP.</p>
+
+    <h2>Why Join Unexpected Company?</h2>
+    <ul>
+        <li>Player vs Player: From small gang skirmishes to gate camps to Nullsec Fleet fights, get started in PvP with UNX-D!</li>
+        <li>Lead Fleets: Once you learn the basics, motivated individuals have the opportunity to gain hands-on experience and one day lead major strategic fleets.</li>
+        <li>Newbie Friendly PvP: Our free frigate program allows brand new players to quickly and accessibly get into PvP at zero cost.</li>
+    </ul>
+
+    <h2>Industry</h2>
+    <p>The lifeblood of EVE Online, industry plays a crucial role in the game's economy. Experienced corp members can help you navigate the game's razor-thin margins!</p>
+    <p class="highlight">Buyback Program: Skip the hassle of hauling to a trade hub when UNX-D can take care of buying and selling for you. We'll buy almost everything at 90% Jita buy!</p>
+
+    <h2>Join Unexpected Company Today!</h2>
+    <ol>
+        <li>Apply to Unexpected Company: Submit an application in-game by pressing Shift + S, searching for "Unexpected Company," then right-clicking the result. Click "Show Info," and finally, click "Apply to Join" at the bottom.</li>
+        <li>Wait for Your Invitation: A recruitment officer will review your application and contact you in-game if they have any questions. On average, less than 24-hour response time.</li>
+        <li>Accept Your Invitation: Upon approval, you'll receive an invitation to join UNX-D. Check your notifications in the bottom right of your screen and click on it to accept the invite.</li>
+        <li>Follow the Getting Started Guide: After joining, you'll receive a welcome evemail containing useful links, including the getting started guide covering moving over to us, making ISK, and joining fleets.</li>
+    </ol>
+
+    <p>Questions? Chat with us in Discord!</p>
+    </div>
+</body>
+</html>
